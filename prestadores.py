@@ -1,0 +1,1 @@
+PRESTADORES = ["clinica", "laboratorio", "imagenes"]
